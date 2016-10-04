@@ -160,5 +160,5 @@ Sponsors
 .. |NumFOCUS| image:: http://www.numfocus.org/uploads/6/0/6/9/60696727/1457562110.png
    :target: http://www.numfocus.org/
 .. |Quantopian| image:: http://i.imgur.com/SC7uOzc.png
-   :scale:50%
+   :height: 100
    :target: https://quantopian.com
