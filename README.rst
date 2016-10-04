@@ -152,8 +152,8 @@ Sponsors
    :target: http://www.numfocus.org/
 
 
-.. image:: http://i.imgur.com/SC7uOzc.png
-   :width: 50px
+.. image:: docs/quantopian_logo.png
+   :scale: 50%
    :target: https://quantopian.com
 
 .. |Gitter| image:: https://badges.gitter.im/Join%20Chat.svg
