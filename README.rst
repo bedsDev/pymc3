@@ -154,7 +154,7 @@ Sponsors
 
 .. image:: http://i.imgur.com/SC7uOzc.png
    :target: https://quantopian.com
-   :height: 50
+   :scale: 50
 
 .. |Gitter| image:: https://badges.gitter.im/Join%20Chat.svg
    :target: https://gitter.im/pymc-devs/pymc?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
